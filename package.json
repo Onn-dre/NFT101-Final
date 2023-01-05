@@ -1,0 +1,24 @@
+{
+  "name": "1-setup-hardhat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.1",
+    "chai": "^4.3.4",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.6.5"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "@openzeppelin/contracts": "^4.3.2",
+    "create-react-app": "^5.0.1",
+    "dotenv": "^10.0.0"
+  }
+}
